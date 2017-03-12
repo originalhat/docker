@@ -1,5 +1,7 @@
 # docker
 
+cf. https://hub.docker.com/r/originalhat/buildkite-agent/
+
 ## TODO
 
 - [x] build w/ ubuntu base image
