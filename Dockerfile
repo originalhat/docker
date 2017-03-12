@@ -1,3 +1,3 @@
-FROM originalhat/buildkite-agent:latest
-RUN gem install bundler
+FROM alpine:latest
+RUN echo 'hello world'
 
